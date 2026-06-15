@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleverenceSoft.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa4792807e88e2ba4ffe7ad9f8a8b880bb1d5bde")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+985b27968173df0d1d9e16d8b9fe29c4f359da42")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleverenceSoft.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleverenceSoft.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
