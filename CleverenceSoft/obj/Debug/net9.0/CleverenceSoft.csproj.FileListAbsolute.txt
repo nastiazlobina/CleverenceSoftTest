@@ -16,3 +16,4 @@ C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\obj\Debug\net9.0\ref\
 C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\obj\Debug\net9.0\CleverenceSoft.csproj.AssemblyReference.cache
 C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\obj\Debug\net9.0\Cleveren.55576AF0.Up2Date
 C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\bin\Debug\net9.0\Task 3\input.txt

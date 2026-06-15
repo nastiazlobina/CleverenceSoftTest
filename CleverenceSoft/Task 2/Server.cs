@@ -1,9 +1,14 @@
+namespace CleverenceSoft.Task_1;
+
 
 public static class Server
 {
     private static int _count;
     private static readonly ReaderWriterLockSlim _lock = new ReaderWriterLockSlim();
 
+    /// <summary>
+    /// Получает текущее значение счётчика
+    /// </summary>
     public static int GetCount()
     {
         _lock.EnterReadLock();
@@ -17,6 +22,9 @@ public static class Server
         }
     }
 
+    /// <summary>
+    /// Увеличивает или уменьшает счётчик на значение
+    /// </summary>
     public static void AddToCount(int value)
     {
         _lock.EnterWriteLock();
@@ -29,11 +37,13 @@ public static class Server
             _lock.ExitWriteLock();
         }
     }
-    
+
+    /// <summary>
+    /// Сброс счётчика
+    /// </summary>
     public static void Reset()
     {
         _lock.EnterWriteLock();
-
         try
         {
             _count = 0;

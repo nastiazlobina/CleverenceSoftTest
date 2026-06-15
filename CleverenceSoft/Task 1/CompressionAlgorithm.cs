@@ -1,5 +1,8 @@
 namespace CleverenceSoft.Task_1;
 
+/// <summary>
+/// Класс для компрессии  и декомпрессии строки 
+/// </summary>
 public class CompressionAlgorithm
 {
     private string originString;
@@ -9,6 +12,10 @@ public class CompressionAlgorithm
         this.originString = originString;
     }
 
+    /// <summary> 
+    /// Если строка пустая или содержит неверные символы, то возвращает сообщение об ошибке
+    /// Иначе вызывает метод компрессии
+    /// </summary>
     public string Compression()
     {
         if (string.IsNullOrEmpty(originString))
@@ -25,12 +32,17 @@ public class CompressionAlgorithm
         return CompressionString(originString);
     }
 
+    /// <summary>
+    /// Восстанавливает строку из компрессии 
+    /// </summary>
     public string Decompression(string compression)
     {
         string output = "";
+
         for (int i = 0; i < compression.Length; i++)
         {
             char currentChar = compression[i];
+
             if (i + 1 < compression.Length && char.IsDigit(compression[i + 1]))
             {
                 output += new string(currentChar, int.Parse(compression[i + 1].ToString()));
@@ -42,13 +54,18 @@ public class CompressionAlgorithm
         return output;
     }
 
+    /// <summary>
+    /// Метод компрессии строки
+    /// </summary>
     public string CompressionString(string input)
     {
         int countLetter = 1;
         string output = "";
+
         for (int i = 0; i < input.Length; i += countLetter)
         {
             countLetter = 1;
+
             for (int j = i + 1; j < input.Length; j++)
             {
                 if (input[j] == input[i]) countLetter++;

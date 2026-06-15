@@ -1,3 +1,5 @@
+using CleverenceSoft.Task_1;
+
 namespace CleverenceSoft.Tests;
 
 public class ServerTests

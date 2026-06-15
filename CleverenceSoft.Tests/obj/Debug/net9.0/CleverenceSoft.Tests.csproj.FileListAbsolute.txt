@@ -105,3 +105,4 @@ C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft.Tests\obj\Debug\net9.
 C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft.Tests\obj\Debug\net9.0\CleverenceSoft.Tests.pdb
 C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft.Tests\obj\Debug\net9.0\CleverenceSoft.Tests.genruntimeconfig.cache
 C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft.Tests\obj\Debug\net9.0\ref\CleverenceSoft.Tests.dll
+C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft.Tests\bin\Debug\net9.0\Task 3\input.txt

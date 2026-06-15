@@ -1,6 +1,6 @@
-﻿// See https://aka.ms/new-console-template for more information
-
+﻿
 using CleverenceSoft.Task_1;
+using CleverenceSoft.Task_3;
 
 
 while (true)
@@ -21,7 +21,7 @@ while (true)
             break;
         case "2":
 
-            Console.WriteLine("Запуск теста сервера...");
+            Console.WriteLine("Запуск теста сервера");
 
             var tasks = new List<Task>();
             
@@ -65,6 +65,23 @@ while (true)
                 $"Итоговое значение count = {Server.GetCount()}");
 
             break;
+        
+        case "3":
+        
+            Console.WriteLine("Запуск обработки логов");
+
+            var baseDir = AppContext.BaseDirectory;
+
+            var input = Path.Combine(baseDir, "Task 3", "input.txt");
+            var output = Path.Combine(baseDir, "Task 3", "output.txt");
+            var problems = Path.Combine(baseDir, "Task 3", "problems.txt");
+
+            LogProcessor.Process(input, output, problems);
+
+            Console.WriteLine("Файл обработан, результаты находятся в папке с bin");
+            break;
+        
+        
         default:
             Console.WriteLine("Неверный номер задачи");
             break;
