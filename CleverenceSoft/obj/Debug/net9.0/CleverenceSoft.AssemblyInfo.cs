@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleverenceSoft")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eafad5be7418861bd455e146e08e4f1728625c2f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleverenceSoft")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleverenceSoft")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

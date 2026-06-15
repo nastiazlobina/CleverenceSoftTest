@@ -1,0 +1,15 @@
+C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\bin\Debug\net9.0\CleverenceSoft.exe
+C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\bin\Debug\net9.0\CleverenceSoft.deps.json
+C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\bin\Debug\net9.0\CleverenceSoft.runtimeconfig.json
+C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\bin\Debug\net9.0\CleverenceSoft.dll
+C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\bin\Debug\net9.0\CleverenceSoft.pdb
+C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\obj\Debug\net9.0\CleverenceSoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\obj\Debug\net9.0\CleverenceSoft.AssemblyInfoInputs.cache
+C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\obj\Debug\net9.0\CleverenceSoft.AssemblyInfo.cs
+C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\obj\Debug\net9.0\CleverenceSoft.csproj.CoreCompileInputs.cache
+C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\obj\Debug\net9.0\CleverenceSoft.sourcelink.json
+C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\obj\Debug\net9.0\CleverenceSoft.dll
+C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\obj\Debug\net9.0\refint\CleverenceSoft.dll
+C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\obj\Debug\net9.0\CleverenceSoft.pdb
+C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\obj\Debug\net9.0\CleverenceSoft.genruntimeconfig.cache
+C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\obj\Debug\net9.0\ref\CleverenceSoft.dll
