@@ -13,3 +13,6 @@ C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\obj\Debug\net9.0\refi
 C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\obj\Debug\net9.0\CleverenceSoft.pdb
 C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\obj\Debug\net9.0\CleverenceSoft.genruntimeconfig.cache
 C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\obj\Debug\net9.0\ref\CleverenceSoft.dll
+C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\obj\Debug\net9.0\CleverenceSoft.csproj.AssemblyReference.cache
+C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\obj\Debug\net9.0\Cleveren.55576AF0.Up2Date
+C:\Users\nasty\RiderProjects\CleverenceSoft\CleverenceSoft\bin\Debug\net9.0\Newtonsoft.Json.dll
